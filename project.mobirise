@@ -23,10 +23,10 @@
         "display4Font": "Urbanist",
         "display4Size": 1.125,
         "isRoundedButtons": false,
-        "isGhostButtonBorder": false,
-        "underlinedLinks": false,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isGhostButtonBorder": true,
+        "underlinedLinks": true,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "titlePreset": "Fitness App",
       "nameSelectPreset": "fitness-app",
