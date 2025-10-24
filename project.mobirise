@@ -59,7 +59,7 @@
     "gdpr": false,
     "pwa-switcher": false,
     "uniqCompNum": 0,
-    "versionPublish": "5.5.8"
+    "versionPublish": "6.1.4"
   },
   "pages": {
     "index.html": {
